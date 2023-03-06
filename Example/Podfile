@@ -1,0 +1,6 @@
+use_frameworks!
+target 'MARSDK_EASPRO_Tests' do
+  pod 'MARSDK_EASPRO', :path => '../'
+  
+  
+end
